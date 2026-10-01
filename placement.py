@@ -1,7 +1,4 @@
-# ==========================================
-# STUDENT PLACEMENT PREDICTION SYSTEM
-# Training & Model Development
-# ==========================================
+
 
 import os
 import pandas as pd
